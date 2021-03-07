@@ -32,7 +32,5 @@ public class FloatDoubleExample {
 		System.out.println(var7);
 		System.out.println(var8);
 		System.out.println(var9);
-		
-	
 	}
 }
