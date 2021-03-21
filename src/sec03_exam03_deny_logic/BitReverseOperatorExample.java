@@ -22,14 +22,14 @@ public class BitReverseOperatorExample {
 		int v6 = ~v4 + 1;
 		
 		System.out.println(toBinaryString(v4) + "(십진수:" + v4 + ")");
-		// 11111111111111111111111111110110(십진수:-10)
+		// 11111111111111111111111111110110(십진수:-10).
 		
 		System.out.println(toBinaryString(v5) + "(십진수:" + v5 + ")");
 		// 00000000000000000000000000001001(십진수:9)
 		
 		System.out.println(toBinaryString(v6) + "(십진수:" + v6 + ")");
-		// 00000000000000000000000000001010(십진수:10)
-
+		// 00000000000000000000000000001010(십진수:10).
+		
 		System.out.println(v5); //값은 9.
 		System.out.println(v6); //값은 10.
 
