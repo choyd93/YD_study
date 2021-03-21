@@ -30,8 +30,8 @@ public class BitReverseOperatorExample {
 		System.out.println(toBinaryString(v6) + "(십진수:" + v6 + ")");
 		// 00000000000000000000000000001010(십진수:10)
 
-		System.out.println(v5); //값은 9
-		System.out.println(v6); //값은 10
+		System.out.println(v5); //값은 9.
+		System.out.println(v6); //값은 10.
 
 	}
 	
